@@ -1,6 +1,6 @@
 # SparkSlidingAggregation
 
-Implementation of minimal map reduce SLIDING AGGREGATION:
+Implementation of minimal map reduce sliding aggregation algorithm in pyspark:
 
 <a href="https://dl.acm.org/doi/10.1145/2463676.2463719" class="uri">https://dl.acm.org/doi/10.1145/2463676.2463719</a>
 
